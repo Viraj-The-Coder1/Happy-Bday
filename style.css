@@ -1,0 +1,10 @@
+#bday{
+    border:10px ridge rgb(11, 226, 226);
+    background-position: center;
+    background-size: cover;
+}
+body{
+    background-image:url("https://png.pngtree.com/background/20210711/original/pngtree-gorgeous-fireworks-celebration-background-picture-image_1123847.jpg");
+    background-position: center;
+    background-size: cover;
+}
